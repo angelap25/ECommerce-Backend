@@ -1,0 +1,15 @@
+C:\Users\angel\Videos\Api\ECommerce\ECommerce\ECommerce.Application\bin\Debug\net8.0\ECommerce.Application.deps.json
+C:\Users\angel\Videos\Api\ECommerce\ECommerce\ECommerce.Application\bin\Debug\net8.0\ECommerce.Application.dll
+C:\Users\angel\Videos\Api\ECommerce\ECommerce\ECommerce.Application\bin\Debug\net8.0\ECommerce.Application.pdb
+C:\Users\angel\Videos\Api\ECommerce\ECommerce\ECommerce.Application\bin\Debug\net8.0\ECommerce.Domain.dll
+C:\Users\angel\Videos\Api\ECommerce\ECommerce\ECommerce.Application\bin\Debug\net8.0\ECommerce.Domain.pdb
+C:\Users\angel\Videos\Api\ECommerce\ECommerce\ECommerce.Application\obj\Debug\net8.0\ECommerce.Application.csproj.AssemblyReference.cache
+C:\Users\angel\Videos\Api\ECommerce\ECommerce\ECommerce.Application\obj\Debug\net8.0\ECommerce.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Videos\Api\ECommerce\ECommerce\ECommerce.Application\obj\Debug\net8.0\ECommerce.Application.AssemblyInfoInputs.cache
+C:\Users\angel\Videos\Api\ECommerce\ECommerce\ECommerce.Application\obj\Debug\net8.0\ECommerce.Application.AssemblyInfo.cs
+C:\Users\angel\Videos\Api\ECommerce\ECommerce\ECommerce.Application\obj\Debug\net8.0\ECommerce.Application.csproj.CoreCompileInputs.cache
+C:\Users\angel\Videos\Api\ECommerce\ECommerce\ECommerce.Application\obj\Debug\net8.0\ECommerc.670E0CBE.Up2Date
+C:\Users\angel\Videos\Api\ECommerce\ECommerce\ECommerce.Application\obj\Debug\net8.0\ECommerce.Application.dll
+C:\Users\angel\Videos\Api\ECommerce\ECommerce\ECommerce.Application\obj\Debug\net8.0\refint\ECommerce.Application.dll
+C:\Users\angel\Videos\Api\ECommerce\ECommerce\ECommerce.Application\obj\Debug\net8.0\ECommerce.Application.pdb
+C:\Users\angel\Videos\Api\ECommerce\ECommerce\ECommerce.Application\obj\Debug\net8.0\ref\ECommerce.Application.dll
